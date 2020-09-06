@@ -1,0 +1,44 @@
+
+.s{
+	font-family: unset;
+	text-align: center;
+	padding: 1px 1px;
+	width: 380px;
+	background-color: #645986;
+	font-weight: 550;
+		text-shadow: 1px 1px black; 
+	color:white;
+ position: relative;
+ top: 100px;
+	text-transform: uppercase;
+}
+
+.display-4{
+	font-family: cursive;
+	font-weight: bold;
+}
+.l{
+	float: left;
+	height: 180px;
+	width:220px;
+	filter: drop-shadow(5px 1px 0px 0px #222); 
+}
+.lion{
+	height: 300px;
+	width: 220px;
+	
+	float: left;
+	position: relative;
+	left: 150px;
+	top:90px;
+	
+
+}
+.lion:hover{
+	cursor: pointer;
+}
+.video{
+	position: relative;
+	left: 250px;
+	top: 30px;
+}
